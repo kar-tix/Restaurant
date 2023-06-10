@@ -1,4 +1,6 @@
-﻿namespace RestaurantAPI.Entities
+﻿using RestaurantAPI.Entities;
+
+namespace RestaurantAPI.Entities
 {
     public class Dish
     {

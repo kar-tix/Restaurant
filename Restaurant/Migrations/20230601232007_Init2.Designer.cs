@@ -11,7 +11,7 @@ using RestaurantAPI.Entities;
 
 namespace RestaurantAPI.Migrations
 {
-    [DbContext(typeof(RestaurantBbContext))]
+    [DbContext(typeof(RestaurantDbContext))]
     [Migration("20230601232007_Init2")]
     partial class Init2
     {

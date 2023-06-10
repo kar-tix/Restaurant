@@ -1,9 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using RestaurantAPI.Entities;
 
 namespace RestaurantAPI.Entities
    
 {
-    public class RestaurantBbContext : DbContext
+    public class RestaurantDbContext : DbContext
     {
         private string _connectionString =
             "Server=(localdb)\\mssqllocaldb;Database=RestaurantDb;Trusted_Connection=True";
@@ -21,6 +22,16 @@ namespace RestaurantAPI.Entities
             modelBuilder.Entity<Dish>()
                 .Property(d => d.Name)
                 .IsRequired();
+
+            modelBuilder.Entity<Address>()
+                .Property(a => a.City)
+                .IsRequired()
+                .HasMaxLength(50);
+
+            modelBuilder.Entity<Address>()
+                .Property(a => a.Street)
+                .IsRequired()
+                .HasMaxLength(50);
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
