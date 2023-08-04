@@ -9,6 +9,7 @@ using Microsoft.Extensions.FileProviders;
 namespace RestaurantAPI.Controllers
 {
     [Route("api/restaurant")]
+    [ApiController]
     public class RestaurantController : ControllerBase
     {
         private readonly IRestaurantService _restaurantService;
@@ -21,10 +22,11 @@ namespace RestaurantAPI.Controllers
         [HttpPost]
         public ActionResult CreateRestaurant([FromBody]CreateRestaurantDto dto)
         {
-            if(!ModelState.IsValid)
+            //Nie trzeba już tego, bo automatycznie odpowiada za to [ApiController]
+/*            if(!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
-            }
+            }*/
 
             int id = _restaurantService.Create(dto);
 
@@ -45,30 +47,21 @@ namespace RestaurantAPI.Controllers
             
             var restaurant = _restaurantService.GetById(id);
 
-            if(restaurant == null)
-            {
-                return NotFound();
-            }
-
             return Ok(restaurant);
         }
 
         [HttpDelete("{id}")]
         public ActionResult Delete([FromRoute] int id)
         {
-            bool isDeleted = _restaurantService.Delete(id);
+            _restaurantService.Delete(id);
 
-            if(isDeleted) return NoContent();
-            return NotFound();
+            return NoContent();
         }
 
         [HttpPut("{id}")]
         public ActionResult Update([FromBody] UpdateRestaurantDto dto, [FromRoute] int id)
         {
-            if(!ModelState.IsValid) return BadRequest(ModelState);
-
-            bool isUpdated = _restaurantService.Update(id, dto);
-            if (!isUpdated) return NotFound();
+            _restaurantService.Update(id, dto);
             return Ok();
         }
     }

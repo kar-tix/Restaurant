@@ -1,0 +1,189 @@
+2023-07-16 14:36:22.2729 Info Message Template Auto Format enabled
+2023-07-16 14:36:22.3525 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-16 14:36:22.3812 Info Validating config: TargetNames=logfile, ConfigItems=19, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 14:36:22.3964 Info Configuration initialized.
+2023-07-16 14:36:22.4118 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-16 14:36:22.4128 Info Validating config: TargetNames=logfile, ConfigItems=19, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 14:40:59.3507 Info Message Template Auto Format enabled
+2023-07-16 14:40:59.4020 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-16 14:40:59.4211 Info Validating config: TargetNames=logfile, ConfigItems=19, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 14:40:59.4325 Info Configuration initialized.
+2023-07-16 14:40:59.4325 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-16 14:40:59.4325 Info Validating config: TargetNames=logfile, ConfigItems=19, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 14:43:40.9925 Info Message Template Auto Format enabled
+2023-07-16 14:43:41.0508 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-16 14:43:41.0508 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-16 14:43:41.0743 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=38, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 14:43:41.0869 Info Configuration initialized.
+2023-07-16 14:43:41.0869 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-16 14:43:41.0869 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=38, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 19:52:37.9332 Info Message Template Auto Format enabled
+2023-07-16 19:52:38.0037 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-16 19:52:38.0037 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-16 19:52:38.0315 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=38, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 19:52:38.0445 Info Configuration initialized.
+2023-07-16 19:52:38.0573 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-16 19:52:38.0573 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=38, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 19:54:47.6967 Info Message Template Auto Format enabled
+2023-07-16 19:54:47.7467 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-16 19:54:47.7467 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-16 19:54:47.7660 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=38, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 19:54:47.7772 Info Configuration initialized.
+2023-07-16 19:54:47.7772 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-16 19:54:47.7772 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=38, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 19:56:10.2702 Info Message Template Auto Format enabled
+2023-07-16 19:56:10.3036 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-16 19:56:10.3036 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-16 19:56:10.3195 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=38, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 19:56:10.3195 Info Configuration initialized.
+2023-07-16 19:56:10.3195 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-16 19:56:10.3195 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=38, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 20:12:36.2030 Info Message Template Auto Format enabled
+2023-07-16 20:12:36.2394 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-16 20:12:36.2406 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-16 20:12:36.2406 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=38, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 20:12:36.2659 Info Configuration initialized.
+2023-07-16 20:12:36.2659 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-16 20:12:36.2659 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=38, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 20:14:50.8665 Info Message Template Auto Format enabled
+2023-07-16 20:14:50.8999 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-16 20:14:50.8999 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-16 20:14:50.9152 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=38, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 20:14:50.9152 Info Configuration initialized.
+2023-07-16 20:14:50.9152 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-16 20:14:50.9152 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=38, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 20:24:57.8638 Info Message Template Auto Format enabled
+2023-07-16 20:24:57.8974 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-16 20:24:57.8974 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-16 20:24:57.9130 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=38, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 20:24:57.9130 Info Configuration initialized.
+2023-07-16 20:24:57.9130 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-16 20:24:57.9130 Info Validating config: TargetNames=allfile, exceptions, ConfigItems=38, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 20:42:18.4871 Info Message Template Auto Format enabled
+2023-07-16 20:42:18.5207 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-16 20:42:18.5218 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-16 20:42:18.5218 Info Registered target NLog.Targets.FileTarget(Name=requestTime)
+2023-07-16 20:42:18.5377 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 20:42:18.5377 Info Configuration initialized.
+2023-07-16 20:42:18.5377 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-16 20:42:18.5377 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 20:43:23.5294 Info Message Template Auto Format enabled
+2023-07-16 20:43:23.5850 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-16 20:43:23.5850 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-16 20:43:23.5850 Info Registered target NLog.Targets.FileTarget(Name=requestTime)
+2023-07-16 20:43:23.6096 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-16 20:43:23.6219 Info Configuration initialized.
+2023-07-16 20:43:23.6219 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-16 20:43:23.6219 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-17 23:45:37.7102 Info Message Template Auto Format enabled
+2023-07-17 23:45:37.7611 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-17 23:45:37.7611 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-17 23:45:37.7611 Info Registered target NLog.Targets.FileTarget(Name=requestTime)
+2023-07-17 23:45:37.7806 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-17 23:45:37.7904 Info Configuration initialized.
+2023-07-17 23:45:37.7904 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-17 23:45:37.7904 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-17 23:47:57.6587 Info Message Template Auto Format enabled
+2023-07-17 23:47:57.6936 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-17 23:47:57.6948 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-17 23:47:57.6948 Info Registered target NLog.Targets.FileTarget(Name=requestTime)
+2023-07-17 23:47:57.7111 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-17 23:47:57.7111 Info Configuration initialized.
+2023-07-17 23:47:57.7111 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-17 23:47:57.7111 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-17 23:50:43.9319 Info Message Template Auto Format enabled
+2023-07-17 23:50:43.9657 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-17 23:50:43.9657 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-17 23:50:43.9657 Info Registered target NLog.Targets.FileTarget(Name=requestTime)
+2023-07-17 23:50:43.9838 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-17 23:50:43.9927 Info Configuration initialized.
+2023-07-17 23:50:43.9927 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-17 23:50:43.9927 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-17 23:51:14.0507 Info Message Template Auto Format enabled
+2023-07-17 23:51:14.0849 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-17 23:51:14.0849 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-17 23:51:14.0849 Info Registered target NLog.Targets.FileTarget(Name=requestTime)
+2023-07-17 23:51:14.1024 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-17 23:51:14.1024 Info Configuration initialized.
+2023-07-17 23:51:14.1024 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-17 23:51:14.1024 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-17 23:57:06.9562 Info Message Template Auto Format enabled
+2023-07-17 23:57:07.0099 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-17 23:57:07.0099 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-17 23:57:07.0099 Info Registered target NLog.Targets.FileTarget(Name=requestTime)
+2023-07-17 23:57:07.0352 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-17 23:57:07.0473 Info Configuration initialized.
+2023-07-17 23:57:07.0565 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-17 23:57:07.0565 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:02:21.1388 Info Message Template Auto Format enabled
+2023-07-18 00:02:21.1909 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-18 00:02:21.1909 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-18 00:02:21.1940 Info Registered target NLog.Targets.FileTarget(Name=requestTime)
+2023-07-18 00:02:21.2135 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:02:21.2268 Info Configuration initialized.
+2023-07-18 00:02:21.2268 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-18 00:02:21.2268 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:04:43.6228 Info Message Template Auto Format enabled
+2023-07-18 00:04:43.6591 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-18 00:04:43.6591 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-18 00:04:43.6591 Info Registered target NLog.Targets.FileTarget(Name=requestTime)
+2023-07-18 00:04:43.6774 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:04:43.6867 Info Configuration initialized.
+2023-07-18 00:04:43.6867 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-18 00:04:43.6867 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:07:36.7748 Info Message Template Auto Format enabled
+2023-07-18 00:07:36.8086 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-18 00:07:36.8086 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-18 00:07:36.8086 Info Registered target NLog.Targets.FileTarget(Name=requestTime)
+2023-07-18 00:07:36.8264 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:07:36.8351 Info Configuration initialized.
+2023-07-18 00:07:36.8351 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-18 00:07:36.8351 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:07:36.8870 Info Message Template Auto Format enabled
+2023-07-18 00:07:36.9209 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-18 00:07:36.9209 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-18 00:07:36.9209 Info Registered target NLog.Targets.FileTarget(Name=requestTime)
+2023-07-18 00:07:36.9385 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:07:36.9473 Info Configuration initialized.
+2023-07-18 00:07:36.9473 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-18 00:07:36.9473 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:07:47.4370 Info Message Template Auto Format enabled
+2023-07-18 00:07:47.4698 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-18 00:07:47.4698 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-18 00:07:47.4698 Info Registered target NLog.Targets.FileTarget(Name=requestTime)
+2023-07-18 00:07:47.4872 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:07:47.4961 Info Configuration initialized.
+2023-07-18 00:07:47.4961 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-18 00:07:47.4961 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:07:47.7959 Info Message Template Auto Format enabled
+2023-07-18 00:07:47.8318 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-18 00:07:47.8318 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-18 00:07:47.8318 Info Registered target NLog.Targets.FileTarget(Name=requestTime)
+2023-07-18 00:07:47.8496 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:07:47.8584 Info Configuration initialized.
+2023-07-18 00:07:47.8584 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-18 00:07:47.8584 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:07:58.5807 Info Message Template Auto Format enabled
+2023-07-18 00:07:58.6135 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-18 00:07:58.6135 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-18 00:07:58.6169 Info Registered target NLog.Targets.FileTarget(Name=requestTime)
+2023-07-18 00:07:58.6315 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:07:58.6315 Info Configuration initialized.
+2023-07-18 00:07:58.6315 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-18 00:07:58.6315 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:07:58.9417 Info Message Template Auto Format enabled
+2023-07-18 00:07:58.9767 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-18 00:07:58.9767 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-18 00:07:58.9767 Info Registered target NLog.Targets.FileTarget(Name=requestTime)
+2023-07-18 00:07:58.9960 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:07:58.9960 Info Configuration initialized.
+2023-07-18 00:07:59.0087 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-18 00:07:59.0087 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:08:03.1586 Info Message Template Auto Format enabled
+2023-07-18 00:08:03.2088 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-18 00:08:03.2106 Info Registered target NLog.Targets.FileTarget(Name=exceptions)
+2023-07-18 00:08:03.2106 Info Registered target NLog.Targets.FileTarget(Name=requestTime)
+2023-07-18 00:08:03.2329 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
+2023-07-18 00:08:03.2452 Info Configuration initialized.
+2023-07-18 00:08:03.2452 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-18 00:08:03.2452 Info Validating config: TargetNames=allfile, exceptions, requestTime, ConfigItems=55, FilePath=E:\Gitgub\Restaurant\Restaurant\bin\Debug\net6.0\NLog.config
